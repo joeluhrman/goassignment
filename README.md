@@ -1,4 +1,4 @@
-# goassignment
+# Go Assignment - Joe Luhrman
 
 ## Directions 
 Write a program in Go that generates n weeks of random temperature data (one temperature for each day of the week), calculates the average temperature for each week, and
