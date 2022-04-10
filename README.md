@@ -7,5 +7,8 @@ Go routines to generate the data for each week simulataneously and then calculat
 
 The program should be able to generate, calculate the average of, and finally sort the averages of any number of weeks (n). The number of weeks can be hardcoded or a user input or whatever you want as long as it can be changed and the program still works. 
 
+## Hints
+I would strongly recommend using VS Code with the Go extension (you also need to download the current version of Go from the official site).
+
 ## Submission
 Just a .go file with your code. 
